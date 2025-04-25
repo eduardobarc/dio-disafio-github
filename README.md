@@ -1,5 +1,5 @@
-# Repositório do desafio de projeto sobre git/github da DIO
-desafio de projeto sobre git/github
+# Desafio de projeto sobre git/github da DIO
+Repositório criado para o desafio de projeto
 
 ##Links Úteis
 
